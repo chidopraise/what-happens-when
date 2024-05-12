@@ -1,0 +1,4 @@
+The seemingly straightforward act of typing “https://www.google.com" and pressing Enter
+sets in motion a complex series of events behind the scenes. From the DNS resolution to TCP/IP connections, firewalls, 
+HTTPS encryption, load-balancers, web servers, application servers, and databases, each component plays 
+a crucial role in delivering the Google homepage to your browser.
